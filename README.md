@@ -1,6 +1,6 @@
 # Discrete brightness (brightnessctl based)
 
-Gnome Shell extension to change brightness in discrete steps, unlike default smooth brightness bar in Gnome Shell. For use with old laptops where brightness control doesn't works well when standard method used.
+Gnome Shell extension to change brightness in discrete steps, unlike default smooth brightness bar in Gnome Shell. This variant for use with old laptops where brightness control doesn't works well when standard method used.
 
 Needs brightnessctl package.
 
