@@ -1,0 +1,8 @@
+{
+    "name": "Discrete brightness (bctl)",
+    "version": 1,
+    "description": "Discrete brightness indicator change brightness in discrete steps, unlike default smooth brightness bar in Gnome Shell. This version uses brightnessctl app.",
+    "url": "https://github.com/eugene-rom/discrete-brightness-bctl",
+    "uuid": "discrete-brightness-bctl@gs.eros2.info",
+    "shell-version": ["3.36", "3.38"]
+}
