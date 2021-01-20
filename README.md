@@ -8,7 +8,7 @@ In Debian/Ubuntu install with:
 
     sudo apt install brightnessctl
 
-Get device name using 'brightnessctl -l'.
-Edit extension.js and set DEVICE variable. By default 'acpi_video0' used. 
+Get device list using `brightnessctl -l`.
+Edit extension.js and set DEVICE variable. By default `acpi_video0` used. 
 
 ![screenshot](screenshot.png?raw=true)
