@@ -6,8 +6,9 @@ Needs brightnessctl package.
 
 In Debian/Ubuntu install with:
 
-    sudo apt install brightnessctl
+    sudo apt install --install-recommends brightnessctl
 
+Add user to `video` group.
 Get device list using `brightnessctl -l`.
 Edit extension.js and set DEVICE variable. By default `acpi_video0` used. 
 
